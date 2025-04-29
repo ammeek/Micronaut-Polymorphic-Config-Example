@@ -16,4 +16,3 @@ The repository contains the following:
 
 - **Java Code**: Examples written in Java to showing  polymorphic serialization classes.
 - **Groovy Code**: Spock test writen to show behavior of config classes.
-naut-Polymorphic-Config-Example.git
