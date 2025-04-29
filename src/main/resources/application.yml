@@ -1,0 +1,11 @@
+micronaut:
+  application:
+    name: polymorphicconfig
+
+config:
+  type-two:
+    default-one:
+      interfaceConfig: iAMDefaultConfigForTypeOne
+  type-one:
+    default-two:
+      interfaceConfig: iAmDefaultConfigForTypeTwo
